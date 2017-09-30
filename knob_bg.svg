@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="34" width="40" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <linearGradient id="linearGradient3839" y2="472.03" gradientUnits="userSpaceOnUse" x2="484.71" gradientTransform="translate(33.231 11.944)" y1="472.03" x1="256.74">
+   <stop id="stop5443" style="stop-color:#060606" offset="0"/>
+   <stop id="stop5445" style="stop-color:#343434" offset="1"/>
+  </linearGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer4" transform="translate(-182.48 -619.89)"><!-- shadow for the top arc -->
+  <g id="g5840" transform="matrix(.10676 0 0 .10676 163.27 587.3)">
+   <g id="g5835" transform="translate(7,7)">
+    <path id="path4669-1-shadow" style="fill-opacity:0;stroke:#000;stroke-linecap:round;stroke-width:11.8" d="m516.41 506.24c4.3642-24.174 2.9091-49.741-5.4062-74.688-15.358-46.074-50.707-79.866-93.188-94.938 0 0-20.697-8.1402-50.198-8.2023-29.501-0.0622-50.927 8.2023-50.927 8.2023-70.746 25.019-111.59 97.58-98.562 169.62"/>
+   </g>
+  </g>
+<!-- shadow for the center oval -->
+  <g id="g3912" style="opacity:0.94" transform="matrix(.10676 0 0 .10676 162.71 586.67)">
+   <path id="path4669-2" style="stroke:#000;stroke-width:11.8" d="m478.81 472.03c0 59.694-48.392 108.09-108.09 108.09-59.694 0-108.09-48.392-108.09-108.09 0-59.694 48.392-108.09 108.09-108.09 59.694 0 108.09 48.392 108.09 108.09z" transform="matrix(-.31622 -.94869 .94869 -.31622 49.242 1001)"/>
+  </g>
+ </g>
+ <g id="layer2" transform="translate(-182.48 -619.89)">
+  <g id="g5840" transform="matrix(.10676 0 0 .10676 163.27 587.3)">
+   <g id="g5835">
+    <path id="path4669-1" style="stroke:#585858;stroke-linecap:round;stroke-width:11.8;fill:none" d="m516.41 506.24c4.3642-24.174 2.9091-49.741-5.4062-74.688-15.358-46.074-50.707-79.866-93.188-94.938 0 0-20.697-8.1402-50.198-8.2023-29.501-0.0622-50.927 8.2023-50.927 8.2023-70.746 25.019-111.59 97.58-98.562 169.62"/>
+   </g>
+   <path id="path4669" style="stroke:#585858;stroke-width:11.8;fill:url(#linearGradient3839)" d="m478.81 472.03c0 59.694-48.392 108.09-108.09 108.09-59.694 0-108.09-48.392-108.09-108.09 0-59.694 48.392-108.09 108.09-108.09 59.694 0 108.09 48.392 108.09 108.09z" transform="matrix(-.31622 -.94869 .94869 -.31622 36.694 980.43)"/>
+  </g>
+  <rect id="rect5530-9" style="stroke-dashoffset:319.5;stroke:#252525;stroke-linecap:round;fill:none" height="3" width="5.0001" y="650.39" x="184.98"/>
+  <rect id="rect5530" style="stroke-dashoffset:319.5;stroke:#767676;stroke-linecap:round;fill:none" height="3" width="5.0001" y="649.39" x="183.98"/>
+  <rect id="rect5530-9-3" style="fill-opacity:0;stroke-dashoffset:319.5;stroke:#252525;stroke-linecap:round" height="3" width="5" y="650.39" x="215.98"/>
+  <rect id="rect5530-5" style="stroke-dashoffset:319.5;stroke:#767676;stroke-linecap:round;fill:#767676" height="3" width="5" y="649.39" x="214.98"/>
+ </g>
+</svg>

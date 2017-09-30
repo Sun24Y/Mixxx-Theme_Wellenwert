@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg id="svg2" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" height="40" width="40" version="1.1" xmlns:cc="http://creativecommons.org/ns#" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/">
+ <defs id="defs4">
+  <filter id="filter5815" color-interpolation-filters="sRGB">
+   <feGaussianBlur id="feGaussianBlur5817" stdDeviation="0.42678198"/>
+  </filter>
+  <linearGradient id="linearGradient4945" y2="634.37" gradientUnits="userSpaceOnUse" x2="202.49" gradientTransform="matrix(1.2573 0 0 1 -52.11 0)" y1="623.48" x1="202.39">
+   <stop id="stop4939" style="stop-color:#e90808" offset="0"/>
+   <stop id="stop4941" style="stop-color:#b60000" offset="1"/>
+  </linearGradient>
+  <radialGradient id="radialGradient4947" gradientUnits="userSpaceOnUse" cy="355.36" cx="366.94" gradientTransform="matrix(1 0 0 .98824 -5.7382e-7 4.1807)" r="21.466">
+   <stop id="stop3941" style="stop-color:#eece33;stop-opacity:.95055" offset="0"/>
+   <stop id="stop5813" style="stop-color:#ff734e;stop-opacity:.81868" offset=".61062"/>
+   <stop id="stop3943" style="stop-color:#ff2d2d;stop-opacity:0" offset="1"/>
+  </radialGradient>
+ </defs>
+ <metadata id="metadata7">
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g id="layer3" transform="translate(-182.48 -613.89)">
+  <path id="rect5578" style="fill:url(#linearGradient4945)" d="m200.48 620.32c0-1.0794 0.64828-2.0226 1.9809-2.0226 1.2699 0 1.9692 0.90158 1.9947 1.9982 0 3.078 0.0244 12.116 0.0244 12.116-0.0742 1.0302-0.9885 2.0014-2.0444 2.0014s-1.937-1.1721-1.937-2.0253c-0.009-4.608-0.0184-7.7528-0.0185-12.068z"/>
+  <path id="path3936" style="filter:url(#filter5815);fill:url(#radialGradient4947)" d="m388.4 355.36c0 11.716-9.6105 21.213-21.466 21.213-11.855 0-21.466-9.4975-21.466-21.213s9.6105-21.213 21.466-21.213c11.855 0 21.466 9.4975 21.466 21.213z" transform="matrix(.088928 0 0 .088072 169.85 588.88)"/>
+ </g>
+</svg>

@@ -18,21 +18,21 @@
 */
 
 #debugbg {
-    background-color: #fff;
+    background-color: #777;
 }
 
 #UIButtons {
   qproperty-layoutAlignment: 'AlignLeft | AlignTop';
-  background-color: #1e1e1e;
+  background-color: #001020;
   padding-top: 1px;
-  border: 1px solid #585858;
+  border: 1px solid #102030;
   border-right: 0px;
   border-left: 0px;
   border-bottom: 0px;
 }
 
 #UIButtonMargin {
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #Deck {
@@ -40,22 +40,22 @@
 }
 
 #DecksSizer {
-  background-color: #0f0f0f;
+  background-color: #203040;
   qproperty-layoutAlignment: 'AlignHCenter | AlignTop';
 }
 
 #UILowerHalf {
-  background-color: #0f0f0f;
+  background-color: #182028;
   qproperty-layoutAlignment: 'AlignHCenter | AlignTop';
 }
 
 #HorizBorder {
   border-bottom: 1px solid #585858;
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #DecksLeftContainer, #DecksRightContainer, #SkinContainer {
-  background-color: #0f0f0f;
+  background-color: #182028;
   qproperty-layoutAlignment: 'AlignHCenter | AlignTop';
 }
 
@@ -65,7 +65,7 @@
 
 #SpinnyContainer {
   border: 0px;
-  background-color: #0f0f0f;
+  background-color: #182028;
 }
 
 #LibrarySingleton {
@@ -75,7 +75,7 @@
 
 #Library {
   border-left: 0px solid #585858;
-  background-color: #0e0e0e;
+  background-color: #001020;
   padding-top: 5px;
   padding-bottom: 2px;
   /*border-top: 1px solid #585858;*/
@@ -84,25 +84,25 @@
 #DeckRowOne {
   qproperty-layoutAlignment: 'AlignLeft | AlignTop';
   border-bottom: 1px solid #585858;
-  background-color: #1e1e1e;
+  background-color: #102030;
   padding: 2px;
 }
 
 #DeckRowTwoThreeFour {
   border-bottom: 1px solid #585858;
-  background-color: #1e1e1e;
+  background-color: #102030;
   /*padding: 3px;*/
 }
 
 #DeckRowFive {
   border-bottom: 1px solid #585858;
-  background-color: #1e1e1e;
+  background-color: #102030;
   padding: 0px;
   padding-left: 2px;
 }
 
 #DecksAndMixer {
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #VisualizationContainer {
@@ -137,7 +137,7 @@
 }
 
 #DeckContainer {
-  background-color: #0f0f0f;
+  background-color: #182028;
 }
 
 #DeckLeftMargin {
@@ -146,7 +146,7 @@
   border-left: 0px;
   border-bottom: 0px;
   border-top: 0px;
-  background-color: #0f0f0f;
+  background-color: #182028;
 }
 
 #DeckRightMargin {
@@ -154,11 +154,11 @@
   border-top:0px;
   border-right: 0px;
   border-bottom: 0px;
-  background-color: #0f0f0f;
+  background-color: #182028;
 }
 
 #Mixer {
-  background-color: #1e1e1e;
+  background-color: #102030;
   qproperty-layoutAlignment: 'AlignCenter';
   border: 1px solid #585858;
   border-top: 0px;
@@ -203,7 +203,7 @@
 
 #MixerContainer {
   qproperty-layoutAlignment: 'AlignLeft | AlignBottom';
-  background-color: #1e1e1e;
+  background-color: #102030;
   padding-top: 3px;
 }
 
@@ -235,7 +235,7 @@
   qproperty-layoutAlignment: 'AlignRight | AlignBottom';
   border: 1px solid #585858;
   border-top: 0px;
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #MasterKnobs {
@@ -264,7 +264,7 @@
 
 #MasterFaders, #MasterLevels {
   qproperty-layoutAlignment: 'AlignHCenter | AlignTop';
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #KnobCentered {
@@ -400,7 +400,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
 }
 
 #GuiToggleButton[displayValue="1"] {
@@ -408,7 +408,7 @@
     border-radius: 2px;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
 }
 
@@ -417,7 +417,7 @@
     border-radius: 2px;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
 }
 
@@ -426,7 +426,7 @@
     border-radius: 2px;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
 }
 
@@ -436,7 +436,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
 }
 
 #VinylToggleButtonUL[displayValue="0"] {
@@ -446,7 +446,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
 }
 
 #VinylToggleButtonUL[displayValue="1"] {
@@ -455,7 +455,7 @@
     margin: 1px;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
 }
 
@@ -466,7 +466,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
 }
 
 #VinylToggleButtonLL[displayValue="1"] {
@@ -475,7 +475,7 @@
     margin: 1px;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
 }
 
@@ -486,7 +486,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #eece33;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
 }
 
 #VinylCueButton[displayValue="0"] {
@@ -496,7 +496,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color: #0e0e0e;
+    background-color: #001020;
 }
 
 #VinylCueButton[displayValue="1"] {
@@ -505,7 +505,7 @@
     margin: 1px;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
 }
 
@@ -515,7 +515,7 @@
     margin: 1px;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
 }
 
@@ -525,7 +525,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
     margin: 1px;
 }
 
@@ -555,7 +555,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
     margin-right: 3px;
 }
 
@@ -575,7 +575,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
     margin-right: 2px;
 }
 
@@ -595,7 +595,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #ddd;
-    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #282828, stop:1 #0e0e0e);
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #202830, stop:1 #001020);
     margin-right: 2px;
     margin-bottom: 2px;
 }
@@ -661,7 +661,7 @@
 
 #CrossFadeContainer {
  qproperty-layoutAlignment: 'AlignCenter';
- background-color: #1e1e1e;
+ background-color: #102030;
  padding-top: 5px;
 }
 
@@ -688,7 +688,7 @@
 
 #Crossfader {
   qproperty-layoutAlignment: 'AlignCenter';
-  /*background-color:#1e1e1e;*/
+  /*background-color:#102030;*/
   padding-top: 10px;
 }
 
@@ -713,7 +713,7 @@
 #PreviewLabel {
   qproperty-layoutAlignment: 'AlignVCenter | AlignHCenter';
   font: 13px/14px "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
-  background-color: #1e1e1e;
+  background-color: #102030;
   font-weight:bold;
   text-transform: uppercase;
   border-right: 1px solid #585858;
@@ -821,7 +821,7 @@
   border: 1px solid #585858;
   border-top: 0px;
   padding: 0px;
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #WaveformMixerContainer {
@@ -881,7 +881,7 @@
   border: 1px solid #585858;
   padding: 5px;
   margin: 2px;
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #MicBorder {
@@ -921,7 +921,7 @@
 
 
 #SamplerDecksContainer {
-  background-color: #0e0e0e;
+  background-color: #001020;
   border-top: 1px solid #585858;
   /*border-bottom: 1px solid #585858;*/
   padding-bottom: 0px;
@@ -935,7 +935,7 @@
   margin-left: 5px;
   margin-right: 5px;
   border: 1px solid #585858;
-  background-color: #1e1e1e;
+  background-color: #102030;
 }
 
 #SamplerVU {
@@ -1069,7 +1069,7 @@
 }
 
 #EffectRackContainer {
-  background-color: #0e0e0e;
+  background-color: #001020;
   padding-top: 5px;
   /*border-bottom: 10px solid #585858;*/
 }
@@ -1136,7 +1136,7 @@
     font: bold 9px/11px;
     text-transform: uppercase;
     color: #585858;
-    background-color: #0e0e0e;
+    background-color: #001020;
     text-transform: none;
     text-align: center;
     border: 1px solid #585858;
@@ -1147,7 +1147,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 9px/11px;
     text-transform: uppercase;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
     text-transform: none;
     text-align: center;
@@ -1160,7 +1160,7 @@
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
     color: #585858;
-    background-color: #0e0e0e;
+    background-color: #001020;
     margin-right: 1px;
 }
 
@@ -1168,7 +1168,7 @@
     border: 1px solid #585858;
     font-family: "Lucida Grande", "Helvetica Neue", "Segoe UI", Arial, "Open Sans Light";
     font: bold 10px/12px;
-    color: #0e0e0e;
+    color: #001020;
     background-color: #eece33;
     margin-right: 1px;
 }
@@ -1179,7 +1179,7 @@ QTableView, QTextBrowser, QTreeView {
   border: 1px solid #585858;
   /*font: 15px/18px;*/
   color: #cfb32c;
-  background-color: #0f0f0f;
+  background-color: #182028;
   alternate-background-color: #1a1a1a;
 
   selection-color: #cfb32c;
@@ -1220,13 +1220,13 @@ QPushButton#LibraryPreviewButton:checked{ image: url(skin:/style/style_library_p
 QHeaderView {
   font: 13px/15px;
   color: #cfb32c;
-  background-color: #0f0f0f;
+  background-color: #182028;
 }
 QHeaderView::section {
   height: 18px;
   border: 1px solid #585858;
   border-left: 0px;
-  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #0f0f0f);
+  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #182028);
 }
 
 /* QScrollbar styling is even harder */
@@ -1283,17 +1283,17 @@ QSpinBox:editable { background: transparent; color: #cfb32c; }
 QSpinBox { min-height: 20px; max-height: 20px;min-width: 40px; max-width: 40px;}
 
 /* library search bar */
-WSearchLineEdit { padding: 2px; border: 1px solid #656565; background: #181818; color: #cfb32c; }
-WSearchLineEdit:focus { padding: 2px; border: 2px solid #FF6600; background: #0f0f0f; color: #eece33;}
+WSearchLineEdit { padding: 2px; border: 1px solid #656565; background: #102030; color: #cfb32c; }
+WSearchLineEdit:focus { padding: 2px; border: 2px solid #FF6600; background: #203040; color: #eece33;}
 
 /* cover art */
 WCoverArt { background: transparent; color: #ACACAC; }
 
 /* splitter between treeview and library */
-QSplitter::handle { image: url(skin:/style/style_handle_unchecked.png); background-color: #1e1e1e; }
-QSplitter::handle:pressed { image: url(skin:/style/style_handle_checked.png); background-color: #1e1e1e; }
-QSplitter::handle:horizontal { width: 10px; background-color: #0e0e0e;}
-QSplitter::handle:vertical { height: 10px; background-color: #0e0e0e;}
+QSplitter::handle { image: url(skin:/style/style_handle_unchecked.png); background-color: #102030; }
+QSplitter::handle:pressed { image: url(skin:/style/style_handle_checked.png); background-color: #102030; }
+QSplitter::handle:horizontal { width: 10px; background-color: #001020;}
+QSplitter::handle:vertical { height: 10px; background-color: #001020;}
 
 /* Extra declaration for QRadioButton otherwise it shows up with wrong colors in Linux with Gnome */
 QLabel, QRadioButton { background: transparent; color: #cfb32c;}
@@ -1302,28 +1302,35 @@ QLabel, QRadioButton { background: transparent; color: #cfb32c;}
 QTreeView { margin: 10px 0px 0px 0px; }
 
 /* triangle for closed/opened branches in treeview */
-QTreeView { show-decoration-selected: 0; background-color: #151515; } /*  Suppresses that selected sidebar items branch indicator shows wrong color when out of focus ; lp:880588 */
+QTreeView { show-decoration-selected: 0; background-color: #203040; } /*  Suppresses that selected sidebar items branch indicator shows wrong color when out of focus ; lp:880588 */
 QTreeView::branch:has-children:!has-siblings:closed,
 QTreeView::branch:closed:has-children:has-siblings { border-image: none; image: url(skin:/style/style_branch_closed.png);
-  background-color:#0f0f0f;
+  background-color:#182028;
 }
 QTreeView::branch:open:has-children:!has-siblings,
 QTreeView::branch:open:has-children:has-siblings { border-image: none; image: url(skin:/style/style_branch_open.png);
-  background-color:#0f0f0f;
+  background-color:#182028;
 }
 QTreeView::branch:has-children:!has-siblings:closed:selected,
 QTreeView::branch:closed:has-children:has-siblings:selected { border-image: none; image: url(skin:/style/style_branch_closed.png);
-  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #0f0f0f);
+  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #182028);
 }
 QTreeView::branch:open:has-children:!has-siblings:selected,
 QTreeView::branch:open:has-children:has-siblings:selected { border-image: none; image: url(skin:/style/style_branch_open.png);
-  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #0f0f0f);
+  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #182028);
 }
 QTreeView::item:selected {
-  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #0f0f0f);
+  background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #585858, stop:1 #182028);
   color: #cfb32c;
 }
 
-QWidget * {
-    color: #ffc000 !important;
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
+/*
+Wellenwert modifications are starting here now...
+*/
+
+* {
+    background-color:qlineargradient(x1:0, y1:0, x2:0, y2:1, stop:0 #001020, stop:1 #203040) !important;
 }
+
+/* - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - */
